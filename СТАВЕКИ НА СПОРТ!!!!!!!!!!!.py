@@ -54,4 +54,3 @@ if cash == 0:
     print("bruh, you lost all your money and you're kicked from lobby")
     casino()
 if cash > 0:
-    exit()
