@@ -55,4 +55,3 @@ if cash == 0:
     casino()
 if cash > 0:
     exit()
-    exit()
